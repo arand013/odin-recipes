@@ -101,3 +101,13 @@ ul{
     height: 987px;
 }
 
+.ingredients-container{
+    border-radius: 10px;
+    background-color: rgb(240, 236, 230);
+    padding: 20px;
+    flex-grow: 3;
+}
+
+.right-top, .steps-container{
+    padding: 0 20px 0px 20px;
+}
